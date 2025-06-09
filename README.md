@@ -55,7 +55,7 @@ The AI uses a simple strategy:
 ---
 
 ## 📸 Screenshots
-![image alt]()
+![image alt](https://github.com/ShivakotiShambhavi/Tic-Tac-Toe/blob/6c104430b32fe4766808b09baa32fef2ebb3bf37/images/Screenshot%202025-06-09%20133903.png)
 ![image alt]()
 ![image alt]()
 
