@@ -55,9 +55,10 @@ The AI uses a simple strategy:
 ---
 
 ## 📸 Screenshots
+![image alt]()
+![image alt]()
+![image alt]()
 
-> You can include screenshots here for visual representation  
-> (e.g., before/after move, win/draw status)
 
 ---
 
